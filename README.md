@@ -9,13 +9,13 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 ## Contents
 
 - [Deutsch](#deutsch)
-   - [Bücher](bücher)
-   - [Podcasts](podcasts)
-   - [Meetups](meetups-regelmäßig+persönlich)
+   - [Bücher](#bücher)
+   - [Podcasts](#podcasts)
+   - [Meetups](#meetups-regelmäßig--persönlich)
 - [English](#english)
-   - [Books](books)
-   - [Podcasts](podcasts)
-   - [Meetups](meetups-regular+in-person)
+   - [Books](#books)
+   - [Podcasts](#podcasts-1)
+   - [Meetups](#meetups-regular--in-person)
 
 
 ## Deutsch
