@@ -50,6 +50,8 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Blogs
 
+- [European Bitcoiners](https://europeanbitcoiners.com/)
+
 ### Books
 
 - [21 Lessons](https://github.com/21-lessons/21lessons-book) by [Gigi](https://github.com/dergigi)
@@ -60,7 +62,9 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Podcasts
 
+- [Bitcoin Explained - The Technical Side of Bitcoin](https://podcasts.google.com/feed/aHR0cHM6Ly9uYWRvYnRjLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAUQrrcFahcKEwjggfPX6t3_AhUAAAAAHQAAAAAQAQ)
 - [BTCTKVR](https://bitcoin-takeover.com/podcast/)
+- [The Chaincode Podcast](https://podcast.chaincode.com/)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
 
 ## License
