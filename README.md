@@ -70,7 +70,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Others
 
-- [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by (Jameson Lopp)[https://www.lopp.net]
+- [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by [Jameson Lopp](https://www.lopp.net)
 
 ## License
 
