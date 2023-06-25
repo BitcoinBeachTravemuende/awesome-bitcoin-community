@@ -20,6 +20,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
    - [Meetups](#meetups-regular--in-person)
    - [News](#news-1)
    - [Podcasts](#podcasts-1)
+   - [Others](#others)
 
 
 ## Deutsch
@@ -66,6 +67,10 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 - [BTCTKVR](https://bitcoin-takeover.com/podcast/)
 - [The Chaincode Podcast](https://podcast.chaincode.com/)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
+
+### Others
+
+- [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by (Jameson Lopp)[https://www.lopp.net]
 
 ## License
 
