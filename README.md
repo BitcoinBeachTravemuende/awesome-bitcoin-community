@@ -70,6 +70,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Others
 
+- [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers by [Igor Barinov](https://github.com/igorbarinov) 
 - [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by [Jameson Lopp](https://www.lopp.net)
 
 ## License
