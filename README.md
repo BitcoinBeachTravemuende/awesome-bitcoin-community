@@ -49,7 +49,8 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Videos
 
--[HUMAN B - Step itno a rabbit hole](https://humanb-film.com/)
+- [HUMAN B - Step into a rabbit hole](https://humanb-film.com/)
+- [Helper - Warum BITCOIN für dich WICHTIG ist!](https://youtu.be/zdVwgg036KE)
 
 ## English
 
@@ -74,7 +75,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Videos
 
--[HUMAN B - Step itno a rabbit hole](https://humanb-film.com/)
+- [HUMAN B - Step into a rabbit hole](https://humanb-film.com/)
 
 ### Others
 
