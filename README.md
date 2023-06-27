@@ -73,10 +73,6 @@
 - [The Chaincode Podcast](https://podcast.chaincode.com/)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
 
-### Videos
-
-- [HUMAN B - Step into a rabbit hole](https://humanb-film.com/)
-
 ### Others
 
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) list by [Igor Barinov](https://github.com/igorbarinov) 
