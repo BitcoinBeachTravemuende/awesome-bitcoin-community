@@ -2,10 +2,6 @@
 
 > An [awesome](https://github.com/sindresorhus/awesome) list of Bitcoin community resources. From the community for the community. All sources are for free and open-source.
 
-## Contribute
-
-Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
-
 ## Contents
 
 - [Deutsch](#deutsch)
@@ -81,6 +77,16 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers by [Igor Barinov](https://github.com/igorbarinov) 
 - [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by [Jameson Lopp](https://www.lopp.net)
+
+## Contribute
+
+Contributions are welcome!
+
+- Fork the repo
+- Open a PR
+- Please make sure new sources you want to add are Bitcoin only related, available for free and open-source
+
+Thank you!
 
 ## License
 
