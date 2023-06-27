@@ -48,7 +48,7 @@
 ### Videos
 
 - [HUMAN B - die Erkenntnisreise in den Bitcoin-Kaninchenbau](https://humanb-film.com/)
-- [Helper - Warum BITCOIN für dich WICHTIG ist!](https://youtu.be/zdVwgg036KE)
+- [Helper - Warum BITCOIN für dich WICHTIG ist!](https://www.youtube.com/watch?v=zdVwgg036KE)
 
 ## English
 
@@ -81,13 +81,14 @@
 ### Videos
 
 - [HUMAN B - the insight journey into the Bitcoin rabbit hole](https://humanb-film.com/)
-- [Deep Web: The Rise and Fall of the Silk Road Documentary](https://www.youtube.com/watch?v%253D7GAoeo4FnBU)
-- [Documentary: Is this the next Bitcoin Paradise?](https://www.youtube.com/watch?v%253DqdgJJL0vdaI)
+- [Deep Web: The Rise and Fall of the Silk Road Documentary](https://www.youtube.com/watch?v=7GAoeo4FnBU)
+- [Documentary: Is this the next Bitcoin Paradise?](https://www.youtube.com/watch?v=qdgJJL0vdaI)
 - [Follow the Money #1 - Bitcoin in El Salvador](https://www.whatbitcoindid.com/ftm1-bitcoin-in-el-salvador)
 - [Follow the Money #2 - Inflation, The Hidden Tax](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
-- [Follow the Money #3 - Dear Elizabeth Warren](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
-- [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v%253Dqk4gZrBR9CU)
-- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v%253DeTOKXCEwo_8)
+- [Follow the Money #3 - Dear Elizabeth Warren](https://www.whatbitcoindid.com/ftm3-dear-elizabeth-warren)
+- [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688)
+- [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v=qk4gZrBR9CU)
+- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8)
 
 ## Contribute
 
