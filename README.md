@@ -10,6 +10,7 @@
    - [Meetups](#meetups-regelmäßig--persönlich)
    - [News](#news)
    - [Podcasts](#podcasts)
+   - [Videos](#videos)
 - [English](#english)
    - [Blogs](#blogs-1)
    - [Books](#books)
@@ -17,6 +18,7 @@
    - [News](#news-1)
    - [Podcasts](#podcasts-1)
    - [Others](#others)
+   - [Videos](#videos-1)
 
 
 ## Deutsch
@@ -45,7 +47,7 @@
 
 ### Videos
 
-- [HUMAN B - Step into a rabbit hole](https://humanb-film.com/)
+- [HUMAN B - die Erkenntnisreise in den Bitcoin-Kaninchenbau](https://humanb-film.com/)
 - [Helper - Warum BITCOIN für dich WICHTIG ist!](https://youtu.be/zdVwgg036KE)
 
 ## English
@@ -59,6 +61,8 @@
 - [21 Lessons](https://github.com/21-lessons/21lessons-book) by [Gigi](https://github.com/dergigi)
 
 ### Meetups (regular + in-person)
+
+- [BitDevs LA](https://bitdevsla.org/)
 
 ### News
 
@@ -75,8 +79,19 @@
 
 ### Others
 
-- [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers by [Igor Barinov](https://github.com/igorbarinov) 
+- [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) list by [Igor Barinov](https://github.com/igorbarinov) 
 - [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by [Jameson Lopp](https://www.lopp.net)
+
+### Videos
+
+- [HUMAN B - the insight journey into the Bitcoin rabbit hole](https://humanb-film.com/)
+- [Deep Web: The Rise and Fall of the Silk Road Documentary](https://www.youtube.com/watch?v%253D7GAoeo4FnBU)
+- [Documentary: Is this the next Bitcoin Paradise?](https://www.youtube.com/watch?v%253DqdgJJL0vdaI)
+- [Follow the Money #1 - Bitcoin in El Salvador](https://www.whatbitcoindid.com/ftm1-bitcoin-in-el-salvador)
+- [Follow the Money #2 - Inflation, The Hidden Tax](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
+- [Follow the Money #3 - Dear Elizabeth Warren](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
+- [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v%253Dqk4gZrBR9CU)
+- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v%253DeTOKXCEwo_8)
 
 ## Contribute
 
