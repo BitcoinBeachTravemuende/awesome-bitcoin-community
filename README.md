@@ -45,7 +45,8 @@
 - [EINUNDZWANZIG Podcast](https://einundzwanzig.space/podcast/)
 - [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
 - [Münzweg](https://muenzweg21.podbean.com/)
-  
+- [Nodesignal Bitcoin only Podcast](https://nodesignal.space/)
+    
 ### Videos
 
 - [HUMAN B - die Erkenntnisreise in den Bitcoin-Kaninchenbau](https://humanb-film.com/)
