@@ -1,6 +1,6 @@
 # awesome-bitcoin-community [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An [awesome](https://github.com/sindresorhus/awesome) list of Bitcoin community resources. From the community for the community. All sources are for free and open-source.
+> An [awesome](https://github.com/sindresorhus/awesome) list of Bitcoin community resources. From the community for the community. For free and open-source. [Contributions](#contribute) are welcome!
 
 ## Contents
 
@@ -15,10 +15,11 @@
    - [Blogs](#blogs-1)
    - [Books](#books)
    - [Meetups](#meetups-regular--in-person)
-   - [News](#news-1)
    - [Podcasts](#podcasts-1)
    - [Others](#others)
    - [Videos](#videos-1)
+- [Português](#português)
+   - [Meetups](#meetups-regular--presencial)
 
 
 ## Deutsch
@@ -38,15 +39,13 @@
 - [BitDevs Berlin](https://bitdevs.berlin/)
 - [EINUNDZWANZIG Meetups](https://portal.einundzwanzig.space/de/meetup/overview?l=de)
 
-### News
-
 ### Podcasts
 
+- [Die Bitcoin Lesestunde](https://aprycot.media/blog/die-bitcoin-lesestunde/)
 - [EINUNDZWANZIG Podcast](https://einundzwanzig.space/podcast/)
 - [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
 - [Münzweg](https://muenzweg21.podbean.com/)
 - [Nodesignal Bitcoin only Podcast](https://nodesignal.space/)
-- [Die Bitcoin Lesestunde](https://aprycot.media/blog/die-bitcoin-lesestunde/)
    
 ### Videos
 
@@ -65,7 +64,20 @@
 
 ### Meetups (regular + in-person)
 
-- [BitDevs LA](https://bitdevsla.org/)
+- [Atlanta BitDevs](https://atlantabitdevs.org/) / USA
+- [BitDevs Amsterdam](https://bitdevsamsterdam.org/) / Netherlands
+- [BitDevs JHB](https://bitdevs.joburg/) / South Africa
+- [BitDevs Kampala](https://twitter.com/BitDevsKla) / Uganda
+- [BitDevs LA](https://bitdevsla.org/) / USA
+- [BitDevs Lagos](https://twitter.com/BitDevsLagos) / Nigeria
+- [BitDevs NYC](https://bitdevs.org/) / USA
+- [BitDevs South Florida/Miami](https://bitdevssouthflorida.com/) / USA
+- [Chicago BitDevs](https://chibitdevs.org/) / USA
+- [DC BitDevs](https://dcbitdevs.org/) / USA
+- [Denver BitDevs](https://www.meetup.com/denver-bitdevs/) / USA
+- [Miami BitDevs](https://miamibitdevs.org/) / USA
+- [San Juan BitDevs](https://www.sanjuanbitdevs.org/) / Puerto Rico
+- [Triangle BitDevs](https://trianglebitdevs.org/) / USA
 
 ### News
 
@@ -92,6 +104,15 @@
 - [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688)
 - [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v=qk4gZrBR9CU)
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8)
+
+
+## Português
+
+### Meetups (regular + presencial)
+
+- [Floripa Bitdevs](https://www.meetup.com/floripa-bitdevs/events/) / Brasil
+- [São Paulo BitDevs](https://saopaulobitdevs.org/) / Brasil
+
 
 ## Contribute
 
