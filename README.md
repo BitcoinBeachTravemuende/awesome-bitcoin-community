@@ -19,7 +19,7 @@
    - [Others](#others)
    - [Videos](#videos-1)
 - [Português](#português)
-   - [Meetups](#regular-presencial)
+   - [Meetups](#meetups-regular--presencial)
 
 
 ## Deutsch
