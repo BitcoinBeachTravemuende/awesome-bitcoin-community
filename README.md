@@ -97,6 +97,7 @@
 
 ### Videos
 
+- [Brazil's Bitcoin Beach - Documentary](https://www.youtube.com/watch?v=uvT7W4AyQm8)
 - [HUMAN B - the insight journey into the Bitcoin rabbit hole](https://humanb-film.com/)
 - [Deep Web: The Rise and Fall of the Silk Road Documentary](https://www.youtube.com/watch?v=7GAoeo4FnBU)
 - [Documentary: Is this the next Bitcoin Paradise?](https://www.youtube.com/watch?v=qdgJJL0vdaI)
@@ -104,6 +105,7 @@
 - [Follow the Money #2 - Inflation, The Hidden Tax](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
 - [Follow the Money #3 - Dear Elizabeth Warren](https://www.whatbitcoindid.com/ftm3-dear-elizabeth-warren)
 - [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688)
+- [Lekker Feeling | A Bitcoin Ekasi Story](https://www.youtube.com/watch?v=P8vlzaDSNY0)
 - [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v=qk4gZrBR9CU)
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8)
 
