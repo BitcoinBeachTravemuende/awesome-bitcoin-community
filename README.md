@@ -88,6 +88,7 @@
 - [BTCTKVR](https://bitcoin-takeover.com/podcast/)
 - [Citadel Dispatch](https://www.podpage.com/citadeldispatch/) (at [YouTube](https://www.youtube.com/@citadeldispatch))
 - [The Chaincode Podcast](https://podcast.chaincode.com/)
+- [Thriller Bitcoin](https://thriller.transistor.fm/)
 - [Stack Sats Podcast](https://www.stacksats.how/podcast)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
 
@@ -105,10 +106,12 @@
 - [Follow the Money #1 - Bitcoin in El Salvador](https://www.whatbitcoindid.com/ftm1-bitcoin-in-el-salvador)
 - [Follow the Money #2 - Inflation, The Hidden Tax](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
 - [Follow the Money #3 - Dear Elizabeth Warren](https://www.whatbitcoindid.com/ftm3-dear-elizabeth-warren)
+- [Follow the Money #4 - Argentina's Inflation Crisis](https://www.youtube.com/watch?v=xkVOJAWP688)
 - [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688)
 - [Lekker Feeling | A Bitcoin Ekasi Story](https://www.youtube.com/watch?v=P8vlzaDSNY0)
 - [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v=qk4gZrBR9CU)
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8)
+- [Who is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw)
 
 
 ## Português
