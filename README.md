@@ -106,7 +106,7 @@
 - [Follow the Money #1 - Bitcoin in El Salvador](https://www.whatbitcoindid.com/ftm1-bitcoin-in-el-salvador)
 - [Follow the Money #2 - Inflation, The Hidden Tax](https://www.whatbitcoindid.com/ftm2-inflation-the-hidden-tax)
 - [Follow the Money #3 - Dear Elizabeth Warren](https://www.whatbitcoindid.com/ftm3-dear-elizabeth-warren)
-- [Follow the Money #4 - Argentina's Inflation Crisis](https://www.youtube.com/watch?v=xkVOJAWP688)
+- [Follow the Money #4 - Argentina's Inflation Crisis](https://www.whatbitcoindid.com/ftm4-argentinas-inflation-crisis)
 - [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688)
 - [Lekker Feeling | A Bitcoin Ekasi Story](https://www.youtube.com/watch?v=P8vlzaDSNY0)
 - [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v=qk4gZrBR9CU)
