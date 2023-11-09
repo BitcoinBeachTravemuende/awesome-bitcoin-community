@@ -112,7 +112,7 @@
 - [The Rise and Rise of Bitcoin | DOCUMENTARY](https://www.youtube.com/watch?v=qk4gZrBR9CU)
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8)
 - [Who is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw)
-
+- [Dirty Coin](https://www.dirtycointhemovie.com)
 
 ## Português
 
