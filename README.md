@@ -77,6 +77,7 @@
 - [Denver BitDevs](https://www.meetup.com/denver-bitdevs/) / USA
 - [Miami BitDevs](https://miamibitdevs.org/) / USA
 - [San Juan BitDevs](https://www.sanjuanbitdevs.org/) / Puerto Rico
+- [São Paulo BitDevs](https://saopaulobitdevs.org/) / Brazil
 - [Taiwan BitDevs](https://bitdevs.tw/) / Taiwan
 - [Triangle BitDevs](https://trianglebitdevs.org/) / USA
 
