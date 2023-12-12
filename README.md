@@ -75,6 +75,7 @@
 - [Chicago BitDevs](https://chibitdevs.org/) / USA
 - [DC BitDevs](https://dcbitdevs.org/) / USA
 - [Denver BitDevs](https://www.meetup.com/denver-bitdevs/) / USA
+- [Málaga 2140](https://malaga2140.xyz/) / Spain
 - [Miami BitDevs](https://miamibitdevs.org/) / USA
 - [San Juan BitDevs](https://www.sanjuanbitdevs.org/) / Puerto Rico
 - [São Paulo BitDevs](https://saopaulobitdevs.org/) / Brazil
