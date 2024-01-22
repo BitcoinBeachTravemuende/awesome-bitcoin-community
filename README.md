@@ -79,6 +79,8 @@
 - [Miami BitDevs](https://miamibitdevs.org/) / USA
 - [San Juan BitDevs](https://www.sanjuanbitdevs.org/) / Puerto Rico
 - [São Paulo BitDevs](https://saopaulobitdevs.org/) / Brazil
+<!-- TODO: Update url as soon as `bitdevs.sg` is available -->
+- [Singapore BitDevs](https://twitter.com/sgbitdevs) / Singapore
 - [Taiwan BitDevs](https://bitdevs.tw/) / Taiwan
 - [Triangle BitDevs](https://trianglebitdevs.org/) / USA
 
