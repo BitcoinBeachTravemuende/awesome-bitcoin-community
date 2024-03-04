@@ -95,12 +95,14 @@
 - [The Chaincode Podcast](https://podcast.chaincode.com/)
 - [Thriller Bitcoin](https://thriller.transistor.fm/)
 - [Stack Sats Podcast](https://www.stacksats.how/podcast)
+- [The Bitcoin Layer](https://thebitcoinlayer.com/) (at [YouTube](https://www.youtube.com/c/TheBitcoinLayer))
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
 
 ### Others
 
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) list by [Igor Barinov](https://github.com/igorbarinov) 
 - [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by [Jameson Lopp](https://www.lopp.net)
+- [](bitcoinuniversity)
 
 ### Videos
 
