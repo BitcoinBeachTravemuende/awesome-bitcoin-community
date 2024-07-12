@@ -92,6 +92,7 @@
 - [Bitcoin.Review Podcast](https://bitcoin.review/)
 - [BTCTKVR](https://bitcoin-takeover.com/podcast/)
 - [Citadel Dispatch](https://www.podpage.com/citadeldispatch/) (at [YouTube](https://www.youtube.com/@citadeldispatch))
+- [The Bitcoin Development Podcast](https://brink.dev/podcast)
 - [The Chaincode Podcast](https://podcast.chaincode.com/)
 - [Thriller Bitcoin](https://thriller.transistor.fm/)
 - [Stack Sats Podcast](https://www.stacksats.how/podcast)
